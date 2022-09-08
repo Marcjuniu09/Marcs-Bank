@@ -1,15 +1,14 @@
 ## Marcs-Bank
 
-Descrição: Banco sem interface gráfica em que você pode:
-1 - Criar uma conta;
-2 - Efetuar um saque;
-3 - Efetuar um depósito;
-4 - Efetuar uma transferência de uma conta para outra;
-5 - Listar todas as contas cadastradas.
+Description: Bank without Graphical interface where you can:
+1 - Create an account;
+2 - Make a withdrawal;
+3 - Make a deposit;
+4 - Make a transfer from one account to another;
+5 - List all registered accounts.
 
-## OBS
-O projeto está finalizado, porém, ainda farei algumas melhorias e futuramente pretendo implementar um banco de dados no projeto
-
+## NOTE
+The project is finished, however, I will still make improvements and in the future I intend to implement a database in the project
 
 
 
