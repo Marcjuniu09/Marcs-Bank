@@ -1,6 +1,6 @@
 ## Marcs-Bank
 
-Description: A mall without a GUI where you can:
+Description: A project of a system from a market where there is no graphical interface, and you can:
 
 1 - Register product;
 
