@@ -1,10 +1,15 @@
 ## Marcs-Bank
 
 Description: A mall without a GUI where you can:
+
 1 - Register product;
+
 2 - List product;
+
 3 - Buy product;
+
 4 - View cart;
+
 5 - Close order.
 
 ## NOTE
